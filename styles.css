@@ -1,0 +1,139 @@
+:root{
+  --gold:#fdd835;
+  --blue: #039be5;
+  --bl:root{
+--gold:#fdd835;
+--blue: #039be5;
+--black:#000000;
+}
+@media (max-width: 61.25em) {
+  html {
+    box-sizing: border-box;
+    font-size: 58%;
+    font-size: 60%;
+    scroll-behavior: smooth;
+
+  }
+}
+@media (max-width: 28.75em) {
+  html {
+    font-size: 55%;
+  }
+@media (max-width: 28.75em) {
+    ul {
+      position:fixed;  
+      justify-content:flex-end;
+      top:0;
+      left:0%;
+      height:90%;
+      display:flex;
+      list-style:armenian;
+    }
+  #navbar{
+    top:auto;       
+  }
+  }    
+}
+body{
+  font-family: 'Poppins', sans-serif;
+font-size: 1.8rem; /* 18px */
+font-weight: 200;
+line-height: 1.4;
+color: var(--gold);
+background-color: var(--blue);
+}
+h1, h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  text-align:left;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3.2rem;
+}
+
+a {
+  text-decoration: none;
+  color: var(--black);
+}
+p{
+  text-align: justify;
+  font-size: 70 px;
+}
+
+section {
+  text-align: justify ;
+  }ack:#000000;
+}
+@media (max-width: 61.25em) {
+    html {
+      box-sizing: border-box;
+      font-size: 58%;
+      font-size: 60%;
+      scroll-behavior: smooth;
+
+    }
+  }
+  @media (max-width: 28.75em) {
+    html {
+      font-size: 55%;
+    }
+  @media (max-width: 28.75em) {
+      .nav {
+        position:fixed;  
+        justify-content: center;
+        top:0;
+        left:0%;
+        height:90%;
+        display:flex;
+        
+      }
+    #navbar{
+      top:auto;       
+    }
+    }    
+  }
+  body{
+    font-family: 'Poppins', sans-serif;
+  font-size: 1.8rem; /* 18px */
+  font-weight: 200;
+  line-height: 1.4;
+  color: var(--gold);
+  background-color: var(--blue);
+  }
+  h1, h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 6rem;
+  }
+  
+  h2 {
+    font-size: 4.2rem;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: var(--black);
+  }
+  p{
+    text-align: center;
+    font-size: 70 px;
+  }
+  ul {
+    list-style: none;
+  }
+  section {
+    text-align: center;
+    }
